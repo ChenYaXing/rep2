@@ -9,7 +9,8 @@ public class TestGit {
     }
 
     public void test(){
-
+        int i = 0;
+        i = i+10;
     }
 
 }
