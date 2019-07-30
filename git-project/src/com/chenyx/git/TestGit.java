@@ -8,4 +8,8 @@ public class TestGit {
         System.out.println("ni hao");
     }
 
+    public void test(){
+
+    }
+
 }
